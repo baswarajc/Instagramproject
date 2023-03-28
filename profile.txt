@@ -1,3 +1,8 @@
 This Is Profile Page
 some changes in profile page
-bug fixed by employee1
+<<<<<<< HEAD
+Bug fixed by employee1
+=======
+Bug fixed by employee1
+
+>>>>>>> profile
