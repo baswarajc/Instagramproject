@@ -1,2 +1,4 @@
 This is home page
 Home
+adding extra features to home page
+
