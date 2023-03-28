@@ -1,4 +1,3 @@
 This Is Profile Page
 some changes in profile page
-adding extra features to profile page
-bug fixed by manager
+bug fixed by employee1
