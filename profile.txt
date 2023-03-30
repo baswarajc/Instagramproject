@@ -6,3 +6,4 @@ Bug fixed by employee1
 Bug fixed by employee1
 
 >>>>>>> profile
+Added feature of change profile
